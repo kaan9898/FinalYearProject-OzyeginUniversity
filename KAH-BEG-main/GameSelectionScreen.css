@@ -1,0 +1,7 @@
+@font-face {
+    font-family: 'Pirou';
+    src: url('./Pirou-Regular.otf') format('opentype');
+    /* You can add more font formats if necessary */
+    font-weight: normal;
+    font-style: normal;
+  }
