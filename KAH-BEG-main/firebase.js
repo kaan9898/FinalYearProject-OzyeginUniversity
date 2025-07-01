@@ -4,7 +4,7 @@ import 'firebase/compat/firestore';
 import { getDatabase } from 'firebase/database';
 
 const firebaseConfig = {
-  apiKey: "AIzaSyAzzFHx8ioJuelRKDLWX11zo30E77A3QfU",
+  apiKey: "api",
   authDomain: "kah-beg-512bb.firebaseapp.com",
   projectId: "kah-beg-512bb",
   storageBucket: "kah-beg-512bb.appspot.com",
